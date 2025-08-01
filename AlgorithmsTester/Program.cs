@@ -17,6 +17,11 @@ namespace AlgorithmsTester
             Console.WriteLine();
             SelectionSortInt.Demo();
             Console.WriteLine();
+            
+            Console.WriteLine();
+            QuickSortInt.Demo();
+            Console.WriteLine();
+            
         }
 
         static void RunSearching()

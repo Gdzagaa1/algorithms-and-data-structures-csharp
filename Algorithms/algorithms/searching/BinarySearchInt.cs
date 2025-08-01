@@ -7,7 +7,7 @@ namespace Algorithms.Searching
      * My implementation of Binary Search Algorithm (Integer).
      * Book: Grokking Algorithms (Chapter 1)
      *
-     * A search algorithm that finds the position of a target value in a sorted array
+     * A simple search algorithm that finds the position of a target value in a sorted array
      * by repeatedly dividing the search interval in half.
      *
      * Time Complexity: O(log n)
