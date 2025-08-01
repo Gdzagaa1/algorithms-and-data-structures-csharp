@@ -1,5 +1,6 @@
 ﻿using System;
 using Algorithms.Searching;
+using Algorithms.Sorting;
 
 namespace AlgorithmsTester
 {
@@ -7,10 +8,18 @@ namespace AlgorithmsTester
     {
         static void Main(string[] args)
         {
-            RunBinarySearch();
+            RunSearching();
+            RunSorting();
         }
 
-        static void RunBinarySearch()
+        static void RunSorting()
+        {
+            Console.WriteLine();
+            SelectionSortInt.Demo();
+            Console.WriteLine();
+        }
+
+        static void RunSearching()
         {
             Console.WriteLine();
             BinarySearchInt.Demo();
