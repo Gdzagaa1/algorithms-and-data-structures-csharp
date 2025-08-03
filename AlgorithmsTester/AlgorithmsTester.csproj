@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Algorithms\Algorithms.csproj" />
+    <ProjectReference Include="..\AlgorithmsAndStructures\AlgorithmsAndStructures.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

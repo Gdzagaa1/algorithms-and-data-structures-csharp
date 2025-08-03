@@ -1,4 +1,5 @@
 ﻿using System;
+using Algorithms.DataStructures.HashTable;
 using Algorithms.Searching;
 using Algorithms.Sorting;
 
@@ -10,6 +11,14 @@ namespace AlgorithmsTester
         {
             RunSearching();
             RunSorting();
+            RunHashTable();
+        }
+
+        static void RunHashTable()
+        {
+            Console.WriteLine();
+            HashTableDemo.Demo();
+            Console.WriteLine();
         }
 
         static void RunSorting()

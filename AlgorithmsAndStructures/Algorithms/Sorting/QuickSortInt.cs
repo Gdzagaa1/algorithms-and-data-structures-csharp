@@ -4,7 +4,7 @@ namespace Algorithms.Sorting;
 
 /*
  * My implementation of QuickSort Algorithm
- * Book: Grokking Algorithms (Chapter 4)
+ * Book: Grokking Algorithms(Chapter 4)
  *
  * A simple divide-and-conquer sorting algorithm that picks a pivot element
  * and partitions the array around it, then recursively sorts the partitions.

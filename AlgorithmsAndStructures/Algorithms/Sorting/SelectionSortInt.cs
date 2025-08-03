@@ -5,7 +5,7 @@ namespace Algorithms.Sorting
     
     /*
      * My implementation of Selection Sort Algorithm
-     * Book: Grokking Algorithms (Chapter 2)
+     * Book: Grokking Algorithms(Chapter 2)
      *
      * A simple sorting algorithm that repeatedly finds the minimum element
      * and places it at the beginning of the unsorted portion.
